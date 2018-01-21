@@ -1,0 +1,28 @@
+
+
+    div{
+      margin: 0 auto;
+      width: 33%;
+    }
+      h1
+      {
+        padding:2px;
+        text-align:center;
+        color: red;
+        border: 5px outset gray;
+        /*background-image:url("assets/images/Wood.jpg")*/
+        /*background-color: #A04000;*/
+      }
+
+      p
+      {
+        color:red;
+        font-weight: bold;
+      }
+
+      body
+      {
+       /* background-image: url("assets/images/crystalBall.jpg");*/
+        background-color:black;
+      }
+  
