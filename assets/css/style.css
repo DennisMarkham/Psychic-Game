@@ -9,9 +9,8 @@
         padding:2px;
         text-align:center;
         color: red;
-        border: 5px outset gray;
-        /*background-image:url("assets/images/Wood.jpg")*/
-        /*background-color: #A04000;*/
+        border: 4px outset #512A09;
+        background-image:url("../images/Wood.jpg")
       }
 
       p
@@ -20,9 +19,16 @@
         font-weight: bold;
       }
 
-      body
+      html { 
+  background: url(../images/crystalBall.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+      /*body
       {
-       /* background-image: url("assets/images/crystalBall.jpg");*/
-        background-color:black;
-      }
-  
+        background-image: url("../images/crystalBall.jpg");
+        
+      }*/
